@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " cardinalfish.aternos.host",
+    "ip": "jewelfish.aternos.host",
     "port": 46438,
     "version": "",
     "try-creative": false
